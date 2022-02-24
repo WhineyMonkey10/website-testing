@@ -10,3 +10,14 @@ header {
     background-color: rgb(41, 96, 36);
     min-height: 100px;
 }
+
+main {
+    background-color: rgb(49, 139, 41);
+    min-height: 300px;
+}
+
+.cards {
+    background-color: rgb(47, 198, 33);
+    min-height: 300px;
+}
+
